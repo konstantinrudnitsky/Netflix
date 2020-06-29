@@ -1,4 +1,4 @@
 # Netflix website
 
-JavaScript Functional Implementation
+JavaScript Functional Implementation.<br>
 Link: https://konstantinrudnitsky.github.io/Netflix/
