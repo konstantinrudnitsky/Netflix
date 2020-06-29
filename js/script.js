@@ -69,8 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
             parent.innerHTML += `
             <li class="promo__interactive-item">${i + 1} ${film}
                 <div class="delete"></div> 
-            </li>
-        `;
+            </li>`;
         });
 
         document.querySelectorAll('.delete').forEach((btn, i) => {
